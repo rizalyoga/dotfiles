@@ -1,0 +1,46 @@
+
+[audacious]
+record=FALSE
+
+[audgui]
+about_win=391,167,582,379
+filebrowser_win=346,120,672,480
+filesel_path=/run/media/dragneel/2/Music/One OK Rock
+info_win=401,150,561,420
+
+[gtkui]
+autoscroll=FALSE
+column_widths=10,275,175,10,175,175,10,100,39,10,275,275,275,10,275
+infoarea_show_vis=FALSE
+infoarea_visible=FALSE
+menu_visible=FALSE
+player_height=336
+player_width=800
+player_x=321
+player_y=193
+playlist_headers=FALSE
+playlist_tabs_visible=FALSE
+statusbar_visible=FALSE
+
+[gtkui-layout]
+item0_name=Search Tool
+item0_pos=0,-1,-1,200,380
+item1_name=Album Art
+item1_pos=-1,0,0,280,184
+item2_name=LyricWiki Plugin
+item2_pos=-1,538,261,276,180
+item3_name=Playlist Manager
+item3_pos=-1,0,0,272,176
+item4_name=Blur Scope
+item4_pos=-1,0,0,284,188
+item5_name=OpenGL Spectrum Analyzer
+item5_pos=-1,0,0,284,188
+item6_name=Spectrum Analyzer
+item6_pos=-1,0,0,284,188
+item_count=7
+
+[skins]
+equalizer_y=107
+playlist_x=44
+playlist_y=120
+skin=/usr/share/audacious/Skins/TinyPlayer

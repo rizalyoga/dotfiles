@@ -1,0 +1,1587 @@
+{
+	"folder_history":
+	[
+		"/home/dragneel/github",
+		"/opt/lampp/htdocs/modul6",
+		"/opt/lampp/htdocs/adminlte",
+		"/opt/lampp/htdocs/praktikum_5",
+		"/home/dragneel/Documents/PemrogramanWEB/Praktikum_5",
+		"/home/dragneel/PemrogramanWEB/Praktikum_2",
+		"/home/dragneel/PemrogramanWEB/Praktikum_4",
+		"/home/dragneel/PemrogramanWEB/Praktikum_3"
+	],
+	"last_version": 3143,
+	"last_window_id": 16,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 608.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"file",
+						"filename"
+					],
+					[
+						"re",
+						"request"
+					],
+					[
+						"co",
+						"col-md-4"
+					],
+					[
+						"for",
+						"form-group"
+					],
+					[
+						"vi",
+						"view"
+					],
+					[
+						"maha",
+						"mahasiswa"
+					],
+					[
+						"res",
+						"resource"
+					],
+					[
+						"h",
+						"html\thtml"
+					],
+					[
+						"to",
+						"tombol2"
+					],
+					[
+						"tombol",
+						"tombol1"
+					],
+					[
+						"T",
+						"T1"
+					],
+					[
+						"f",
+						"form\tTag"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"al",
+						"text-align"
+					],
+					[
+						"gamba",
+						"gambar2"
+					],
+					[
+						"a",
+						"auto"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"text",
+						"text-decoration-color"
+					],
+					[
+						"l",
+						"li\tTag"
+					],
+					[
+						"li",
+						"line-height"
+					],
+					[
+						"n",
+						"none"
+					],
+					[
+						"no",
+						"lower-norwegian"
+					],
+					[
+						"b",
+						"background"
+					],
+					[
+						"s",
+						"stroke"
+					],
+					[
+						"cl",
+						"clear"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"op",
+						"option\tTag"
+					],
+					[
+						"se",
+						"select\tTag"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"t",
+						"td\tTag"
+					],
+					[
+						"bc",
+						"bgcolor\tAttr"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 221.0,
+				"last_filter": "git  ad",
+				"selected_items":
+				[
+					[
+						"git  ad",
+						"Git: Add Current File"
+					],
+					[
+						"git  ",
+						"Git: Push"
+					],
+					[
+						"git  co",
+						"Git: Commit"
+					],
+					[
+						"git ",
+						"Git: Push"
+					],
+					[
+						"git ad",
+						"Git: Add Current File"
+					],
+					[
+						"git s",
+						"Git: Status"
+					],
+					[
+						"git p",
+						"Github: Plugin Settings"
+					],
+					[
+						"git c",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"github",
+						"Github: Repository"
+					],
+					[
+						"git co",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"git pus",
+						"Github: Plugin Settings"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						"giy",
+						"Github: History"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"ta",
+						"View: Toggle Tabs"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"menu ",
+						"View: Toggle Menu"
+					]
+				],
+				"width": 441.0
+			},
+			"console":
+			{
+				"height": 122.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/opt/lampp/htdocs/modul6/public/AdminLTE-2.4.3/bower_components/ckeditor/ckeditor.js",
+				"/home/dragneel/.config/sublime-text-3/Packages/User/Github Tools.sublime-settings",
+				"/home/dragneel/Documents/PemrogramanWEB/Praktikum_5/tugas1.php",
+				"/home/dragneel/github/.Xresources",
+				"/run/media/dragneel/2/TADATABASE/tampil_buku.php",
+				"/opt/lampp/htdocs/modul6/resources/views/v1/create.blade.php",
+				"/opt/lampp/htdocs/adminlte/.env",
+				"/opt/lampp/htdocs/adminlte/app/Providers/AppServiceProvider.php",
+				"/opt/lampp/htdocs/adminlte/database/migrations/2018_05_06_141036_create_mahasiswas_table.php",
+				"/run/media/dragneel/2/TADATABASE/input_anggota.php",
+				"/opt/lampp/htdocs/adminlte/routes/web.php",
+				"/opt/lampp/htdocs/adminlte/app/Http/Controllers/mahasiswacontroller.php",
+				"/opt/lampp/htdocs/modul6/app/Providers/AppServiceProvider.php",
+				"/run/media/dragneel/USB DRIVE/welcome.blade.php",
+				"/opt/lampp/htdocs/modul6/database/migrations/2018_05_10_104846_create_mahasiswas_table.php",
+				"/opt/lampp/htdocs/adminlte/resources/views/v1/create.blade.php",
+				"/home/dragneel/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/dragneel/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/dragneel/blog/public/AdminLTE-2.4.3/index.html",
+				"/home/dragneel/Templates/Tint2-Theme-Collections-master/clair/clair-orange.tint2rc",
+				"/home/dragneel/Templates/Tint2-Theme-Collections-master/raven-top/raven-crimson.tint2rc",
+				"/opt/lampp/htdocs/praktikum_5/tugas_1.php",
+				"/home/dragneel/blog/resources/views/admin/adminlte.blade.php",
+				"/home/dragneel/adminlte/resources/views/welcome.blade.php",
+				"/home/dragneel/blog/resources/views/welcome.blade.php",
+				"/run/media/dragneel/1/TADATABASE/edit_peminjaman.php",
+				"/home/dragneel/blog/public/assets/index.html",
+				"/run/media/dragneel/1/TADATABASE/edit_rak.php",
+				"/home/dragneel/blog/routes/web.php",
+				"/home/dragneel/blog/resources/welcome.blade_copy.php",
+				"/home/dragneel/blog/public/index.php",
+				"/home/dragneel/blog/public/assests/index.html",
+				"/home/dragneel/blog/resources/views/admin/welcome.blade.php",
+				"/home/dragneel/Templates/icon/Flat Remix/index.theme",
+				"/home/dragneel/Templates/Flat Remix Dark/index.theme",
+				"/usr/share/icons/arc-flat-elementary/index.theme",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/Stolen from m4he/kuronyx-accented-blue (copy 1).tint2rc",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/scripts/sensors",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/scripts/ssid",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/scripts/music",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/scripts/mpd-module",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/Stolen from m4he/kuronyx-accented-blue.tint2rc",
+				"/home/dragneel/.cache/.fr-3Lyosk/scripts/battery",
+				"/home/dragneel/.cache/.fr-yCLa96/scripts/desktop",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/PolyTint2/PolyTint2.tint2rc",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/Neomix/numix_red_taskbar.tint2rc",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/scripts/battery",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/Minimalist/minim.sh",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/scripts/desktop",
+				"/home/dragneel/Pictures/url",
+				"/home/dragneel/Templates/Tint2-Theme-Collections-master/clair/clair-froly.tint2rc",
+				"/home/dragneel/agitnoster-theme/agitnoster.zsh-theme",
+				"/home/dragneel/Downloads/nerd-fonts-1.2.0/css/nerd-fonts-generated.css",
+				"/home/dragneel/netbeans-8.0.2/README.html",
+				"/home/dragneel/netbeans-8.0.2/CREDITS.html",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/Arc Irc Urc/ArcDark.tint2rc",
+				"/home/dragneel/netbeans-8.0.2/netbeans.css",
+				"/home/dragneel/Templates/Tint2-Collections-master/scripts/desktop",
+				"/home/dragneel/Templates/Tint2-Collections-master/scripts/mpd-module",
+				"/home/dragneel/Templates/Tint2-Collections-master/scripts/battery",
+				"/home/dragneel/Templates/Tint2-Theme-Collections-master/launchy/launchy.tint2rc",
+				"/run/media/dragneel/YTE/index.php",
+				"/run/media/dragneel/YTE/Pak Yusron - Jual Beli.srt",
+				"/run/media/dragneel/YTE/titip/SMKN 1 Purwosari/12tkj2/produktif/pak_djarot/M.ArifAbdurrahman_XII-TKJ2/www/cron.php",
+				"/opt/lampp/htdocs/modul4/no6.php",
+				"/opt/lampp/htdocs/modul4/no5.php",
+				"/opt/lampp/htdocs/modul4/no4.php",
+				"/opt/lampp/htdocs/modul4/no1.php",
+				"/opt/lampp/htdocs/modul4/no2.php",
+				"/opt/lampp/htdocs/modul4/no3.php",
+				"/home/dragneel/PemrogramanWEB/Praktikum_3/tugas4.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_4/index.php",
+				"/opt/lampp/htdocs/bitnami.css",
+				"/home/dragneel/PemrogramanWEB/Praktikum_2/style.css",
+				"/home/dragneel/PemrogramanWEB/Praktikum_3/tugas3.html",
+				"/run/media/dragneel/2/TADATABASE/edit_anggota.php",
+				"/run/media/dragneel/2/TADATABASE/index.php",
+				"/home/dragneel/PemrogramanWEB/Praktikum_3/startpage.html",
+				"/home/dragneel/.startpage-dark.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_3/jQuery v3.3.1.js",
+				"/home/dragneel/PemrogramanWEB/Praktikum_3/tugas2.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_3/Tugas1.html",
+				"/home/dragneel/startpage-dark.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_3/startpage-dark.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_1/TUGASWEB_4.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_1/TUGASWEB_3.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_2/style1.css",
+				"/home/dragneel/PemrogramanWEB/Praktikum_2/style2.css",
+				"/home/dragneel/PemrogramanWEB/Praktikum_2/index3.html",
+				"/home/dragneel/PemrogramanWEB/modul2/index.html",
+				"/home/dragneel/PemrogramanWEB/modul2/style.css",
+				"/home/dragneel/PemrogramanWEB/Praktikum_1/hal02.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_1/hal01.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_1/TUGASWEB_1.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_2/index.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_2/index1.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_1/hal03.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_1/Praktikum_2/index.html",
+				"/home/dragneel/%F",
+				"/home/dragneel/NetBeansProjects/JavaApplication1/build.xml",
+				"/run/media/dragneel/2/TADATABASE/edit_buku.php",
+				"/home/dragneel/Templates/pastel/xfwm4/themerc",
+				"/home/dragneel/gkamus/install-sh",
+				"/home/dragneel/Downloads/install.sh",
+				"/home/dragneel/Xre",
+				"/home/dragneel/Program/packettracer",
+				"/home/dragneel/a.out",
+				"/run/media/dragneel/YTE/Film/Korea/CInderellaAnd FourKnight/CInderella AFK-Ep.05AsmaFruity.srt",
+				"/run/media/dragneel/YTE/backup/New folder/xdm",
+				"/run/media/dragneel/1/Kuliah/BasisData/TADATABASE/edit_anggota.php"
+			],
+			"find":
+			{
+				"height": 21.0
+			},
+			"find_in_files":
+			{
+				"height": 91.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"das",
+					"Dashb",
+					"pro",
+					"<?php $__currentLo",
+					"return",
+					"pages",
+					"PDOException",
+					"AdminLTE-2.4.3",
+					"dist/img/user2-160x160.jpg\" class=\"img-circle\" alt=\"User Image",
+					"dist/img",
+					"image ",
+					"inner ",
+					"inner side",
+					"inner",
+					"AdminLTE-2.3.4",
+					"{{url",
+					"{{asset",
+					"{{assets",
+					"{{asset",
+					"{{asset('AdminLTE-2.3.4/",
+					"search-btn",
+					"tra",
+					"opo",
+					"margin",
+					"padd",
+					"desk",
+					"#ffffff",
+					"font",
+					"date",
+					"icon"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"AdminLTE2.4.3",
+					"{{asset('AdminLTE-2.4.3/dist/img/user2-160x160.jpg\" class=\"user-image\" alt=\"User Image')}}",
+					"AdminLTE-2.4.3",
+					"{{asset",
+					"{{url",
+					"{{asset",
+					"{{assets",
+					"{{url('assets/"
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 91.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/blog/public/AdminLTE-2.4.3/index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 443.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 336.0
+			},
+			"select_symbol":
+			{
+				"height": 346.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"$(error The '$(SPHINXBUILD)' command was not found. Make sure you have Sphinx installed, then set the SPHINXBUILD environment variable to point to the full path of the '$(SPHINXBUILD)' executable. Alternatively you can add the directory with the executable to your PATH. If you don't have Sphinx installed, grab it from http://sphinx-doc.org/)\nendif\n\n# Internal variables.\nPAPEROPT_a4     = -D latex_paper_size=a4\nPAPEROPT_letter = -D latex_paper_size=letter\nALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .\n# the i18n builder cannot share the environment and doctrees with the others\nI18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .\n\n.PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest gettext\n\nhelp:\n\t@echo \"Please use \\`make <target>' where <target> is one of\"\n\t@echo \"  html       to make standalone HTML files\"\n\t@echo \"  dirhtml    to make HTML files named index.html in directories\"\n\t@echo \"  singlehtml to make a single large HTML file\"\n\t@echo \"  pickle     to make pickle files\"\n\t@echo \"  json       to make JSON files\"\n\t@echo \"  htmlhelp   to make HTML files and a HTML help project\"\n\t@echo \"  qthelp     to make HTML files and a qthelp project\"\n\t@echo \"  devhelp    to make HTML files and a Devhelp project\"\n\t@echo \"  epub       to make an epub\"\n\t@echo \"  latex      to make LaTeX files, you can set PAPER=a4 or PAPER=letter\"\n\t@echo \"  latexpdf   to make LaTeX files and run them through pdflatex\"\n\t@echo \"  latexpdfja to make LaTeX files and run them through platex/dvipdfmx\"\n\t@echo \"  text       to make text files\"\n\t@echo \"  man        to make manual pages\"\n\t@echo \"  texinfo    to make Texinfo files\"\n\t@echo \"  info       to make Texinfo files and run them through makeinfo\"\n\t@echo \"  gettext    to make PO message catalogs\"\n\t@echo \"  changes    to make an overview of all changed/added/deprecated items\"\n\t@echo \"  xml        to make Docutils-native XML files\"\n\t@echo \"  pseudoxml  to make pseudoxml-XML files for display purposes\"\n\t@echo \"  linkcheck  to check all external links for integrity\"\n\t@echo \"  doctest    to run all doctests embedded in the documentation (if enabled)\"\n\nclean:"
+					]
+				],
+				"width": 588.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 198.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 943.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"file",
+						"filename"
+					],
+					[
+						"re",
+						"request"
+					],
+					[
+						"co",
+						"col-md-4"
+					],
+					[
+						"for",
+						"form-group"
+					],
+					[
+						"vi",
+						"view"
+					],
+					[
+						"maha",
+						"mahasiswa"
+					],
+					[
+						"res",
+						"resource"
+					],
+					[
+						"h",
+						"html\thtml"
+					],
+					[
+						"to",
+						"tombol2"
+					],
+					[
+						"tombol",
+						"tombol1"
+					],
+					[
+						"T",
+						"T1"
+					],
+					[
+						"f",
+						"form\tTag"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"al",
+						"text-align"
+					],
+					[
+						"gamba",
+						"gambar2"
+					],
+					[
+						"a",
+						"auto"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"text",
+						"text-decoration-color"
+					],
+					[
+						"l",
+						"li\tTag"
+					],
+					[
+						"li",
+						"line-height"
+					],
+					[
+						"n",
+						"none"
+					],
+					[
+						"no",
+						"lower-norwegian"
+					],
+					[
+						"b",
+						"background"
+					],
+					[
+						"s",
+						"stroke"
+					],
+					[
+						"cl",
+						"clear"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"op",
+						"option\tTag"
+					],
+					[
+						"se",
+						"select\tTag"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"t",
+						"td\tTag"
+					],
+					[
+						"bc",
+						"bgcolor\tAttr"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/dragneel/Templates/Tint2-Theme-Collections-master/clair/clair-froly.tint2rc",
+					"settings":
+					{
+						"buffer_size": 6231,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/opt/lampp/htdocs/modul6/.env",
+					"settings":
+					{
+						"buffer_size": 688,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/opt/lampp/htdocs/modul6/resources/views/v1/create.blade.php",
+					"settings":
+					{
+						"buffer_size": 2078,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/opt/lampp/htdocs/modul6/database/migrations/2018_05_10_222233_create_dosens_table.php",
+					"settings":
+					{
+						"buffer_size": 634,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/dragneel/github/Tubes-PKN/README.md",
+					"settings":
+					{
+						"buffer_size": 23,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/opt/lampp/htdocs/modul6/app/mahasiswa.php",
+					"settings":
+					{
+						"buffer_size": 162,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/opt/lampp/htdocs/modul6/routes/web.php",
+					"settings":
+					{
+						"buffer_size": 487,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<?php\n\n\n\nnamespace App\\Http\\Controllers;\n\nuse App\\mahasiswa;\n\nuse Illuminate\\Http\\Request;\n\nclass mahacont extends Controller\n{\n    /**\n     * Display a listing of the resource.\n     *\n     * @return \\Illuminate\\Http\\Response\n     */\n    public function index()\n    {\n        $mahasiswas = mahasiswa::all()->toArray();\n        return view('v1.index', compact('mahasiswas'));\n    }\n\n    /**\n     * Show the form for creating a new resource.\n     *\n     * @return \\Illuminate\\Http\\Response\n     */\n    public function create()\n    {\n        return view('v1.create');\n    }\n\n    /**\n     * Store a newly created resource in storage.\n     *\n     * @param  \\Illuminate\\Http\\Request  $request\n     * @return \\Illuminate\\Http\\Response\n     */\n    public function store(Request $request)\n    {\n        $mahasiswa = $this->validate(request(), [\n        'nama' => 'required',\n        'NIM' => 'required',\n        'NO_HP' => 'required',\n        'JK' => 'required',\n        'gambar' => 'required'\n        ]);\n\n        $file = $request-> file('gambar');\n        $filename = $file-> getClientOriginalName();\n        $file->move(public_path('images'),$filename);\n\n        $mahasiswa['gambar'] = $filename;\n\n        mahasiswa::create($mahasiswa);\n        return back()->with('success', 'mahasiswa has been added');;\n    }\n\n    /**\n     * Display the specified resource.\n     *\n     * @param  int  $id\n     * @return \\Illuminate\\Http\\Response\n     */\n    public function show($id)\n    {\n        //\n    }\n\n    /**\n     * Show the form for editing the specified resource.\n     *\n     * @param  int  $id\n     * @return \\Illuminate\\Http\\Response\n     */\n    public function edit($id)\n    {\n        $mahasiswa = mahasiswa::find($id);\n        return view('v1.edit',compact('mahasiswa','id'));\n    }\n\n    /**\n     * Update the specified resource in storage.\n     *\n     * @param  \\Illuminate\\Http\\Request  $request\n     * @param  int  $id\n     * @return \\Illuminate\\Http\\Response\n     */\n    \n    public function update(Request $request, $id)\n    {\n        $mahasiswa = mahasiswa::find($id);\n        $this->validate(request(), [\n        'nama' => 'required',\n        'NIM' => 'required',\n        'NO_HP' => 'required',\n        'JK' => 'required',\n        'gambar' => 'required'\n        ]);\n        $mahasiswa->nama = $request->get('nama');\n        $mahasiswa->NIM = $request->get('NIM');\n        $mahasiswa->NO_HP = $request->get('NO_HP');\n\n        $file = $request-> file('gambar');\n        $filename = $file-> getClientOriginalName();\n        $file->move(public_path('images'),$filename);\n\n        $mahasiswa->JK = $request->get('JK');\n        $mahasiswa->gambar= $filename;\n        $mahasiswa->save();\n\n\n\n        return redirect('v1')->with('success','Data has been updated');\n    }\n\n    /**\n     * Remove the specified resource from storage.\n     *\n     * @param  int  $id\n     * @return \\Illuminate\\Http\\Response\n     */\n    public function destroy($id)\n    {\n        $mahasiswa = mahasiswa::find($id);\n        $mahasiswa->delete();\n        return redirect('v1')->with('success','Data has been deleted');\n    }\n}\n",
+					"file": "/opt/lampp/htdocs/modul6/app/Http/Controllers/mahacont.php",
+					"file_size": 3089,
+					"file_write_time": 131704960599370284,
+					"settings":
+					{
+						"buffer_size": 3094,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/opt/lampp/htdocs/modul6/resources/views/v1/edit.blade.php",
+					"settings":
+					{
+						"buffer_size": 2185,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/opt/lampp/htdocs/modul6/resources/views/v1/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 1475,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/opt/lampp/htdocs/modul6/public/AdminLTE-2.4.3/index.html",
+					"settings":
+					{
+						"buffer_size": 52532,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/opt/lampp/htdocs/modul6/resources/views/welcome.blade.php",
+					"settings":
+					{
+						"buffer_size": 53414,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 346.0,
+				"last_filter": "git  ",
+				"selected_items":
+				[
+					[
+						"git  ",
+						"Git: Push"
+					],
+					[
+						"git  ad",
+						"Git: Amend Commit"
+					],
+					[
+						"git  co",
+						"Git: Commit"
+					],
+					[
+						"git ",
+						"Git: Push"
+					],
+					[
+						"git ad",
+						"Git: Add Current File"
+					],
+					[
+						"git s",
+						"Git: Status"
+					],
+					[
+						"git p",
+						"Github: Plugin Settings"
+					],
+					[
+						"git c",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"github",
+						"Github: Repository"
+					],
+					[
+						"git co",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"git pus",
+						"Github: Plugin Settings"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						"giy",
+						"Github: History"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"ta",
+						"View: Toggle Tabs"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"menu ",
+						"View: Toggle Menu"
+					]
+				],
+				"width": 417.0
+			},
+			"console":
+			{
+				"height": 122.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/opt/lampp/htdocs/modul6",
+				"/opt/lampp/htdocs/modul6/app",
+				"/opt/lampp/htdocs/modul6/app/Http",
+				"/opt/lampp/htdocs/modul6/app/Http/Controllers",
+				"/opt/lampp/htdocs/modul6/app/Providers",
+				"/opt/lampp/htdocs/modul6/database",
+				"/opt/lampp/htdocs/modul6/database/migrations",
+				"/opt/lampp/htdocs/modul6/public",
+				"/opt/lampp/htdocs/modul6/resources",
+				"/opt/lampp/htdocs/modul6/resources/views",
+				"/opt/lampp/htdocs/modul6/resources/views/v1",
+				"/opt/lampp/htdocs/modul6/routes",
+				"/home/dragneel/github",
+				"/home/dragneel/github/Tubes-PKN"
+			],
+			"file_history":
+			[
+				"/home/dragneel/.config/sublime-text-3/Packages/User/GitHub.sublime-settings",
+				"/home/dragneel/.config/sublime-text-3/Packages/User/Github Tools.sublime-settings",
+				"/home/dragneel/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+				"/home/dragneel/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+				"/opt/lampp/htdocs/modul6/public/AdminLTE-2.4.3/bower_components/ckeditor/ckeditor.js",
+				"/home/dragneel/Documents/PemrogramanWEB/Praktikum_5/tugas1.php",
+				"/home/dragneel/github/.Xresources",
+				"/run/media/dragneel/2/TADATABASE/tampil_buku.php",
+				"/opt/lampp/htdocs/modul6/resources/views/v1/create.blade.php",
+				"/opt/lampp/htdocs/adminlte/.env",
+				"/opt/lampp/htdocs/adminlte/app/Providers/AppServiceProvider.php",
+				"/opt/lampp/htdocs/adminlte/database/migrations/2018_05_06_141036_create_mahasiswas_table.php",
+				"/run/media/dragneel/2/TADATABASE/input_anggota.php",
+				"/opt/lampp/htdocs/adminlte/routes/web.php",
+				"/opt/lampp/htdocs/adminlte/app/Http/Controllers/mahasiswacontroller.php",
+				"/opt/lampp/htdocs/modul6/app/Providers/AppServiceProvider.php",
+				"/run/media/dragneel/USB DRIVE/welcome.blade.php",
+				"/opt/lampp/htdocs/modul6/database/migrations/2018_05_10_104846_create_mahasiswas_table.php",
+				"/opt/lampp/htdocs/adminlte/resources/views/v1/create.blade.php",
+				"/home/dragneel/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/dragneel/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/dragneel/blog/public/AdminLTE-2.4.3/index.html",
+				"/home/dragneel/Templates/Tint2-Theme-Collections-master/clair/clair-orange.tint2rc",
+				"/home/dragneel/Templates/Tint2-Theme-Collections-master/raven-top/raven-crimson.tint2rc",
+				"/opt/lampp/htdocs/praktikum_5/tugas_1.php",
+				"/home/dragneel/blog/resources/views/admin/adminlte.blade.php",
+				"/home/dragneel/adminlte/resources/views/welcome.blade.php",
+				"/home/dragneel/blog/resources/views/welcome.blade.php",
+				"/run/media/dragneel/1/TADATABASE/edit_peminjaman.php",
+				"/home/dragneel/blog/public/assets/index.html",
+				"/run/media/dragneel/1/TADATABASE/edit_rak.php",
+				"/home/dragneel/blog/routes/web.php",
+				"/home/dragneel/blog/resources/welcome.blade_copy.php",
+				"/home/dragneel/blog/public/index.php",
+				"/home/dragneel/blog/public/assests/index.html",
+				"/home/dragneel/blog/resources/views/admin/welcome.blade.php",
+				"/home/dragneel/Templates/icon/Flat Remix/index.theme",
+				"/home/dragneel/Templates/Flat Remix Dark/index.theme",
+				"/usr/share/icons/arc-flat-elementary/index.theme",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/Stolen from m4he/kuronyx-accented-blue (copy 1).tint2rc",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/scripts/sensors",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/scripts/ssid",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/scripts/music",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/scripts/mpd-module",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/Stolen from m4he/kuronyx-accented-blue.tint2rc",
+				"/home/dragneel/.cache/.fr-3Lyosk/scripts/battery",
+				"/home/dragneel/.cache/.fr-yCLa96/scripts/desktop",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/PolyTint2/PolyTint2.tint2rc",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/Neomix/numix_red_taskbar.tint2rc",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/scripts/battery",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/Minimalist/minim.sh",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/scripts/desktop",
+				"/home/dragneel/Pictures/url",
+				"/home/dragneel/Templates/Tint2-Theme-Collections-master/clair/clair-froly.tint2rc",
+				"/home/dragneel/agitnoster-theme/agitnoster.zsh-theme",
+				"/home/dragneel/Downloads/nerd-fonts-1.2.0/css/nerd-fonts-generated.css",
+				"/home/dragneel/netbeans-8.0.2/README.html",
+				"/home/dragneel/netbeans-8.0.2/CREDITS.html",
+				"/home/dragneel/Templates/Tint2-Collections-master-omar/Arc Irc Urc/ArcDark.tint2rc",
+				"/home/dragneel/netbeans-8.0.2/netbeans.css",
+				"/home/dragneel/Templates/Tint2-Collections-master/scripts/desktop",
+				"/home/dragneel/Templates/Tint2-Collections-master/scripts/mpd-module",
+				"/home/dragneel/Templates/Tint2-Collections-master/scripts/battery",
+				"/home/dragneel/Templates/Tint2-Theme-Collections-master/launchy/launchy.tint2rc",
+				"/run/media/dragneel/YTE/index.php",
+				"/run/media/dragneel/YTE/Pak Yusron - Jual Beli.srt",
+				"/run/media/dragneel/YTE/titip/SMKN 1 Purwosari/12tkj2/produktif/pak_djarot/M.ArifAbdurrahman_XII-TKJ2/www/cron.php",
+				"/opt/lampp/htdocs/modul4/no6.php",
+				"/opt/lampp/htdocs/modul4/no5.php",
+				"/opt/lampp/htdocs/modul4/no4.php",
+				"/opt/lampp/htdocs/modul4/no1.php",
+				"/opt/lampp/htdocs/modul4/no2.php",
+				"/opt/lampp/htdocs/modul4/no3.php",
+				"/home/dragneel/PemrogramanWEB/Praktikum_3/tugas4.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_4/index.php",
+				"/opt/lampp/htdocs/bitnami.css",
+				"/home/dragneel/PemrogramanWEB/Praktikum_2/style.css",
+				"/home/dragneel/PemrogramanWEB/Praktikum_3/tugas3.html",
+				"/run/media/dragneel/2/TADATABASE/edit_anggota.php",
+				"/run/media/dragneel/2/TADATABASE/index.php",
+				"/home/dragneel/PemrogramanWEB/Praktikum_3/startpage.html",
+				"/home/dragneel/.startpage-dark.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_3/jQuery v3.3.1.js",
+				"/home/dragneel/PemrogramanWEB/Praktikum_3/tugas2.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_3/Tugas1.html",
+				"/home/dragneel/startpage-dark.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_3/startpage-dark.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_1/TUGASWEB_4.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_1/TUGASWEB_3.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_2/style1.css",
+				"/home/dragneel/PemrogramanWEB/Praktikum_2/style2.css",
+				"/home/dragneel/PemrogramanWEB/Praktikum_2/index3.html",
+				"/home/dragneel/PemrogramanWEB/modul2/index.html",
+				"/home/dragneel/PemrogramanWEB/modul2/style.css",
+				"/home/dragneel/PemrogramanWEB/Praktikum_1/hal02.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_1/hal01.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_1/TUGASWEB_1.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_2/index.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_2/index1.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_1/hal03.html",
+				"/home/dragneel/PemrogramanWEB/Praktikum_1/Praktikum_2/index.html",
+				"/home/dragneel/%F",
+				"/home/dragneel/NetBeansProjects/JavaApplication1/build.xml",
+				"/run/media/dragneel/2/TADATABASE/edit_buku.php",
+				"/home/dragneel/Templates/pastel/xfwm4/themerc",
+				"/home/dragneel/gkamus/install-sh",
+				"/home/dragneel/Downloads/install.sh",
+				"/home/dragneel/Xre",
+				"/home/dragneel/Program/packettracer",
+				"/home/dragneel/a.out",
+				"/run/media/dragneel/YTE/Film/Korea/CInderellaAnd FourKnight/CInderella AFK-Ep.05AsmaFruity.srt",
+				"/run/media/dragneel/YTE/backup/New folder/xdm",
+				"/run/media/dragneel/1/Kuliah/BasisData/TADATABASE/edit_anggota.php"
+			],
+			"find":
+			{
+				"height": 21.0
+			},
+			"find_in_files":
+			{
+				"height": 91.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"das",
+					"Dashb",
+					"pro",
+					"<?php $__currentLo",
+					"return",
+					"pages",
+					"PDOException",
+					"AdminLTE-2.4.3",
+					"dist/img/user2-160x160.jpg\" class=\"img-circle\" alt=\"User Image",
+					"dist/img",
+					"image ",
+					"inner ",
+					"inner side",
+					"inner",
+					"AdminLTE-2.3.4",
+					"{{url",
+					"{{asset",
+					"{{assets",
+					"{{asset",
+					"{{asset('AdminLTE-2.3.4/",
+					"search-btn",
+					"tra",
+					"opo",
+					"margin",
+					"padd",
+					"desk",
+					"#ffffff",
+					"font",
+					"date",
+					"icon"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"AdminLTE2.4.3",
+					"{{asset('AdminLTE-2.4.3/dist/img/user2-160x160.jpg\" class=\"user-image\" alt=\"User Image')}}",
+					"AdminLTE-2.4.3",
+					"{{asset",
+					"{{url",
+					"{{asset",
+					"{{assets",
+					"{{url('assets/"
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/opt/lampp/htdocs/adminlte"
+				},
+				{
+					"path": "/opt/lampp/htdocs/modul6"
+				},
+				{
+					"path": "/home/dragneel/github"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/dragneel/Templates/Tint2-Theme-Collections-master/clair/clair-froly.tint2rc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6231,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3948,
+										3948
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 168.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/opt/lampp/htdocs/modul6/.env",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 688,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										250,
+										250
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/opt/lampp/htdocs/modul6/resources/views/v1/create.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2078,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										710,
+										710
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/opt/lampp/htdocs/modul6/database/migrations/2018_05_10_222233_create_dosens_table.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 634,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										133,
+										5
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/dragneel/github/Tubes-PKN/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										23,
+										23
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/opt/lampp/htdocs/modul6/app/mahasiswa.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 162,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										156,
+										156
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/opt/lampp/htdocs/modul6/routes/web.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 487,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										423,
+										423
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/opt/lampp/htdocs/modul6/app/Http/Controllers/mahacont.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3094,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2134,
+										2134
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 286.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/opt/lampp/htdocs/modul6/resources/views/v1/edit.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2185,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										690,
+										690
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/opt/lampp/htdocs/modul6/resources/views/v1/index.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1475,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1400,
+										1400
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/opt/lampp/htdocs/modul6/public/AdminLTE-2.4.3/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 52532,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14713,
+										14713
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4532.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/opt/lampp/htdocs/modul6/resources/views/welcome.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 53414,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										15472,
+										15472
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 366.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 91.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,344,30,1287,638,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/blog/public/AdminLTE-2.4.3/index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 443.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 336.0
+			},
+			"select_symbol":
+			{
+				"height": 346.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"$(error The '$(SPHINXBUILD)' command was not found. Make sure you have Sphinx installed, then set the SPHINXBUILD environment variable to point to the full path of the '$(SPHINXBUILD)' executable. Alternatively you can add the directory with the executable to your PATH. If you don't have Sphinx installed, grab it from http://sphinx-doc.org/)\nendif\n\n# Internal variables.\nPAPEROPT_a4     = -D latex_paper_size=a4\nPAPEROPT_letter = -D latex_paper_size=letter\nALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .\n# the i18n builder cannot share the environment and doctrees with the others\nI18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .\n\n.PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest gettext\n\nhelp:\n\t@echo \"Please use \\`make <target>' where <target> is one of\"\n\t@echo \"  html       to make standalone HTML files\"\n\t@echo \"  dirhtml    to make HTML files named index.html in directories\"\n\t@echo \"  singlehtml to make a single large HTML file\"\n\t@echo \"  pickle     to make pickle files\"\n\t@echo \"  json       to make JSON files\"\n\t@echo \"  htmlhelp   to make HTML files and a HTML help project\"\n\t@echo \"  qthelp     to make HTML files and a qthelp project\"\n\t@echo \"  devhelp    to make HTML files and a Devhelp project\"\n\t@echo \"  epub       to make an epub\"\n\t@echo \"  latex      to make LaTeX files, you can set PAPER=a4 or PAPER=letter\"\n\t@echo \"  latexpdf   to make LaTeX files and run them through pdflatex\"\n\t@echo \"  latexpdfja to make LaTeX files and run them through platex/dvipdfmx\"\n\t@echo \"  text       to make text files\"\n\t@echo \"  man        to make manual pages\"\n\t@echo \"  texinfo    to make Texinfo files\"\n\t@echo \"  info       to make Texinfo files and run them through makeinfo\"\n\t@echo \"  gettext    to make PO message catalogs\"\n\t@echo \"  changes    to make an overview of all changed/added/deprecated items\"\n\t@echo \"  xml        to make Docutils-native XML files\"\n\t@echo \"  pseudoxml  to make pseudoxml-XML files for display purposes\"\n\t@echo \"  linkcheck  to check all external links for integrity\"\n\t@echo \"  doctest    to run all doctests embedded in the documentation (if enabled)\"\n\nclean:"
+					]
+				],
+				"width": 588.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 198.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 12,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

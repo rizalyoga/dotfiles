@@ -1,0 +1,21 @@
+VirtualBox GUI VM Selector Window 5.2.8 r120774 linux.amd64 (Feb 28 2018 07:46:09) release log
+00:00:01.808615 Log opened 2018-05-05T23:10:20.360645000Z
+00:00:01.808617 Build Type: release
+00:00:01.808621 OS Product: Linux
+00:00:01.808624 OS Release: 4.14.27-1-MANJARO
+00:00:01.808626 OS Version: #1 SMP PREEMPT Thu Mar 15 19:47:13 UTC 2018
+00:00:01.808666 DMI Product Name: HP Pavilion g4 Notebook PC      
+00:00:01.808684 DMI Product Version: 0695130000004610000600000
+00:00:01.808772 Host RAM: 3895MB (3.8GB) total, 3362MB (3.2GB) available
+00:00:01.808779 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.808781 Process ID: 19159
+00:00:01.808782 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:01.808830 Qt version: 5.10.1
+00:00:01.920811 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.484447 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x30 x 1366x738
+00:00:02.488451 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:02.546738 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:02.654532 refreshCertificates/#1: InMem.Cert.TbsCertificate.T3.Extensions.papItems[#].ExtnValue.NameConstraints.T0.PermittedSubtrees.papItems[#]: Unexpected sequence type/flags: 0x2/0x80 (expected 0x10/0x20)
+00:00:02.656481 refreshCertificates/#3: Found 1/152 SSL certs we/you trust (previously 1/152).
+00:00:06.848819 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:06.905010 GUI: UIMediumEnumerator: Medium-enumeration finished!

@@ -1,0 +1,8 @@
+
+~> xcalib -co XX -a -> xcalib -clear
+
+composer create-project laravel/laravel sisfo --prefer-dist
+
+found driver
+
+/etc/php/php.ini -> enable pdo_mysql

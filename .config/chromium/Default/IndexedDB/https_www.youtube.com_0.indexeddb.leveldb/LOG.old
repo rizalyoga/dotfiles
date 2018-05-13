@@ -1,0 +1,3 @@
+2018/04/28-18:45:24.252 5502 Reusing MANIFEST /home/dragneel/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/04/28-18:45:24.252 5502 Recovering log #3
+2018/04/28-18:45:24.252 5502 Reusing old log /home/dragneel/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 

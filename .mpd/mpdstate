@@ -1,0 +1,153 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:A7X/(2001) Sounding The Seventh Trumpet/01 - To End The Rapture.mp3
+1:A7X/(2001) Sounding The Seventh Trumpet/07 - Warmness On The Soul.MP3
+2:A7X/(2003) Waking The Fallen/02 - Unholy Confessions.MP3
+3:A7X/(2003) Waking The Fallen/03 - Eternal Rest.mp3
+4:A7X/(2003) Waking The Fallen/07 - Second Heartbeat.mp3
+5:A7X/(2003) Waking The Fallen/09 - I Want See You Tonight Part 1.mp3
+6:A7X/(2003) Waking The Fallen/12 - And All Things Will End.mp3
+7:A7X/(2005) City Of Evil/04 - Bat Country.mp3
+8:A7X/(2005) City Of Evil/11 - M.I.A.mp3
+9:A7X/(2005) City Of Evil/01 - Beast And The Harlot.MP3
+10:A7X/(2005) City Of Evil/02 - Burn It Down.mp3
+11:A7X/(2005) City Of Evil/03 - Blinded In Chains.mp3
+12:A7X/(2005) City Of Evil/05 - Thrashed & Scattered.mp3
+13:A7X/(2005) City Of Evil/07 - Sidewinder.mp3
+14:A7X/(2005) City Of Evil/08 - The Wicked End.mp3
+15:A7X/(2005) City Of Evil/09 - Strenght Of The World.mp3
+16:A7X/(2005) City Of Evil/10 - Betrayed.mp3
+17:A7X/(2005) City Of Evil/12 - Chapter 4.mp3
+18:A7X/(2005) City Of Evil/06 - Seize The Day.mp3
+19:A7X/(2007) Avenged Sevenfold/10 - Dear God.mp3
+20:A7X/(2007) Avenged Sevenfold/01 - Critical Acclaim.mp3
+21:A7X/(2007) Avenged Sevenfold/02 - Almost Easy.mp3
+22:A7X/(2007) Avenged Sevenfold/03 - Scream.mp3
+23:A7X/(2007) Avenged Sevenfold/04 - Afterlife.mp3
+24:A7X/(2007) Avenged Sevenfold/05 - Gunslinger.mp3
+25:A7X/(2007) Avenged Sevenfold/06 - Unbound (The Wild Ride).mp3
+26:A7X/(2007) Avenged Sevenfold/07 - Brompton Cocktail.mp3
+27:A7X/(2007) Avenged Sevenfold/08 - Lost.mp3
+28:A7X/(2007) Avenged Sevenfold/09 - A Little Peace Of Heaven.mp3
+29:A7X/(2008) Diamonds In The Rough/05 - Until The End.mp3
+30:A7X/(2008) Diamonds In The Rough/07 - Walk (Pantera Cover).mp3
+31:A7X/(2008) Diamonds In The Rough/08 - The Fight.mp3
+32:A7X/(2010) Nightmare/01 - Nightmare.mp3
+33:A7X/(2010) Nightmare/02 - Welcome To The Family.MP3
+34:A7X/(2010) Nightmare/03 - Danger Line.mp3
+35:A7X/(2010) Nightmare/04 - Buried Alive.mp3
+36:A7X/(2010) Nightmare/05 - Natural Born Killer.mp3
+37:A7X/(2010) Nightmare/06 - So Far Away.mp3
+38:A7X/(2010) Nightmare/07 - God Hates Us.mp3
+39:A7X/(2010) Nightmare/08 - Victim.mp3
+40:A7X/(2010) Nightmare/09 - Tonight The World Dies.mp3
+41:A7X/(2010) Nightmare/10 - Fiction.mp3
+42:A7X/(2010) Nightmare/11 - Save Me.mp3
+43:A7X/(2010) Nightmare/12 - Lost It All (iTunes Bonus Track).mp3
+44:A7X/(2013) Hail To The King/01. Shepherd of Fire.mp3
+45:A7X/(2013) Hail To The King/02. Hail To The King.mp3
+46:A7X/(2013) Hail To The King/03. Doing Time.mp3
+47:A7X/(2013) Hail To The King/04. This Means War.mp3
+48:A7X/(2013) Hail To The King/05. Requiem.mp3
+49:A7X/(2013) Hail To The King/06. Crimson Day.mp3
+50:A7X/(2013) Hail To The King/07. Heretic.mp3
+51:A7X/(2013) Hail To The King/08. Coming Home.mp3
+52:A7X/(2013) Hail To The King/09. Planets.mp3
+53:A7X/(2013) Hail To The King/10. Acid Rain.mp3
+54:A7X/A7X - The Stage (Album)/01 The Stage.m4a
+55:A7X/A7X - The Stage (Album)/02 Paradigm.m4a
+56:A7X/A7X - The Stage (Album)/03 Sunny Disposition.m4a
+57:A7X/A7X - The Stage (Album)/04 God Damn.m4a
+58:A7X/A7X - The Stage (Album)/05 Creating God.m4a
+59:A7X/A7X - The Stage (Album)/06 Angels.m4a
+60:A7X/A7X - The Stage (Album)/07 Simulation.m4a
+61:A7X/A7X - The Stage (Album)/08 Higher.m4a
+62:A7X/A7X - The Stage (Album)/09 Roman Sky.m4a
+63:A7X/A7X - The Stage (Album)/10 Fermi Paradox.m4a
+64:A7X/A7X - The Stage (Album)/11 Exist.m4a
+65:GFRIEND - 5th Mini Album Repackage - RAINBOW/GFRIEND The 6th Mini Album 'Time for the moon night' [www.k2nblog.com]/02. 밤 (Time for the moon night).mp3
+66:Porter Robinson Shelter.mp3
+67:Mr. Big/Mr. Big - Just Take My Heart.mp3
+68:Mr. Big/Mr. Big - Nothing But Love.mp3
+69:Mr. Big/Mr. Big - Promise Her The Moon.mp3
+70:Mr. Big/Mr. Big - Stay Together.mp3
+71:Mr. Big/Mr. Big - Superfantastic.mp3
+72:Mr. Big/Mr. Big - To Be With You.mp3
+73:Mr. Big/Mr. Big - Wild World.mp3
+74:OOR/Ambitions International ver/01 Ambitions (Introduction).m4a
+75:OOR/Ambitions International ver/02 Bombs Away.m4a
+76:OOR/Ambitions International ver/03 Taking Off.m4a
+77:OOR/Ambitions International ver/04 We Are.m4a
+78:OOR/Ambitions International ver/05 Jaded (feat. Alex Gaskarth).m4a
+79:OOR/Ambitions International ver/06 Hard to Love.m4a
+80:OOR/Ambitions International ver/07 Bedroom Warfare.m4a
+81:OOR/Ambitions International ver/08 American Girls.m4a
+82:OOR/Ambitions International ver/09 I Was King.m4a
+83:OOR/Ambitions International ver/10 Listen.m4a
+84:OOR/Ambitions International ver/11 One Way Ticket.m4a
+85:OOR/Ambitions International ver/12 Bon Voyage.m4a
+86:OOR/Ambitions International ver/13 Start Again.m4a
+87:OOR/Ambitions International ver/14 Take What You Want (feat. 5 Secon.m4a
+88:Paramore_-_Bonus_Track__2009__-_Shin/04. Where The Lines Overlap (acoustic).mp3
+89:Paramore_-_Bonus_Track__2009__-_Shin/02. Ignorance (Acoustic Version).mp3
+90:Paramore_-_Bonus_Track__2009__-_Shin/01. Brick By Boring Brick (Acoustic Version).mp3
+91:Paramore_-_Bonus_Track__2009__-_Shin/03. Turn It Off (Acoustic Version).mp3
+92:Paramore_-_Bonus_Track__2009__-_Shin/11.That's What You Get.mp3
+93:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/01 Make Me Love You.m4a
+94:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/02. Fine.m4a
+95:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/03. Cover Up.m4a
+96:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/04 날개 Feel So Fine.m4a
+97:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/05 I Got Love.m4a
+98:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/06 I'm OK.m4a
+99:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/07 Time Lapse.m4a
+100:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/08 Sweet Love.m4a
+101:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/09 When I Was Young.m4a
+102:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/10 I Blame On You.m4a
+103:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/11 Lonely Night.m4a
+104:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/12 11_11.m4a
+105:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/13 수채화 Love in Color.m4a
+106:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/14. Fire.m4a
+107:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/15. Eraser.m4a
+108:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/16 Curtain Call.m4a
+109:TAEYEON - My Voice - The 1st Album (Deluxe Edition) 3D Album by mark oppa/17 Time Walking On Memory.m4a
+110:01. 하나뿐인 사람.mp3
+111:[HULKPOP.COM]04. And I Need You Most.mp3
+112:[HULKPOP.COM]01. 너를 사랑해.mp3
+113:Paramore - Brand New Eyes/01 - Careful.mp3
+114:Paramore - Brand New Eyes/02 - Ignorance.mp3
+115:Paramore - Brand New Eyes/03 - Playing God.mp3
+116:Paramore - Brand New Eyes/04 - Brick By Boring Brick.mp3
+117:Paramore - Brand New Eyes/05 - Turn If Off.mp3
+118:Paramore - Brand New Eyes/06 - The Only Exception.mp3
+119:Paramore - Brand New Eyes/07 - Feeling Sorry.mp3
+120:Paramore - Brand New Eyes/08 - Looking Up.mp3
+121:Paramore - Brand New Eyes/09 - Where The Lines Overlap.mp3
+122:Paramore - Brand New Eyes/10 - Misguided Ghosts.mp3
+123:Paramore - Brand New Eyes/11 - All I Wanted.mp3
+124:Paramore - Brand New Eyes/12 - Decode.mp3
+125:My Chemical Romance - The Black Parade (2006)/My Chemical Romance - Blood (hidden track).mp3
+126:My Chemical Romance - The Black Parade (2006)/My Chemical Romance - Cancer.mp3
+127:My Chemical Romance - The Black Parade (2006)/My Chemical Romance - Dead!.mp3
+128:My Chemical Romance - The Black Parade (2006)/My Chemical Romance - Disenchanted.mp3
+129:My Chemical Romance - The Black Parade (2006)/My Chemical Romance - Famous Last Words.mp3
+130:My Chemical Romance - The Black Parade (2006)/My Chemical Romance - House of Wolves.mp3
+131:My Chemical Romance - The Black Parade (2006)/My Chemical Romance - I Don't Love You.mp3
+132:My Chemical Romance - The Black Parade (2006)/My Chemical Romance - Mama.mp3
+133:My Chemical Romance - The Black Parade (2006)/My Chemical Romance - Sleep.mp3
+134:My Chemical Romance - The Black Parade (2006)/My Chemical Romance - Teenagers.mp3
+135:My Chemical Romance - The Black Parade (2006)/My Chemical Romance - The End.mp3
+136:My Chemical Romance - The Black Parade (2006)/My Chemical Romance - The Sharpest Lives.mp3
+137:My Chemical Romance - The Black Parade (2006)/My Chemical Romance - This Is How I Disappear.mp3
+138:My Chemical Romance - The Black Parade (2006)/My Chemical Romance - Welcome to the Black Parade.mp3
+139:My Chemical Romance - The Black Parade (2006)/My Chemical Romance - Heaven Help Us [Bonus Track].mp3
+playlist_end

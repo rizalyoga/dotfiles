@@ -1,0 +1,18 @@
+puss new repo
+echo "# nyobak" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/rizalyoga/nyobak.git
+git push -u origin master
+git 
+git remote add origin https://github.com/rizalyoga/nyobak.git
+git push -u origin master
+
+>git clone
+
+	$git clone https://github.com/
+	$git remote add 
+	$git add file
+	$git commit -m
+	$git push

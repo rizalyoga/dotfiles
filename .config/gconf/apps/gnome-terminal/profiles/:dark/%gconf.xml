@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="bold_color_same_as_fg" mtime="1522699476" type="bool" value="false"/>
+	<entry name="use_theme_colors" mtime="1522699476" type="bool" value="false"/>
+	<entry name="palette" mtime="1522699476" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+</gconf>

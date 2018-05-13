@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1Self",
+		"Git",
+		"Github Tools",
+		"Gitignore",
+		"GitStatusBar",
+		"Package Control",
+		"sublime-github"
+	]
+}
