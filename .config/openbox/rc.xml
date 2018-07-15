@@ -264,9 +264,30 @@
       <action name="ToggleShowDesktop"/>
     </keybind>
     <!-- Keybindings for windows -->
-    <keybind key="A-F4">
+    <keybind key="A-q">
       <action name="Close"/>
     </keybind>
+
+    <keybind key="A-S-m">
+      <action name="Move"/>
+    </keybind>
+    
+    <keybind key="A-z">
+      <action name="Resize"/>
+    </keybind>
+
+    <keybind key="A-d">
+      <action name="Decorate"/>
+    </keybind>
+
+    <keybind key="A-u">
+  	<action name="Undecorate"/>
+    </keybind>
+
+    <keybind key="A-S-d">
+  	<action name="ToggleDecorations"/>
+    </keybind>
+
     <keybind key="A-Escape">
       <action name="Lower"/>
       <action name="FocusToBottom"/>
@@ -300,11 +321,34 @@
         <command>pcmanfm</command>
       </action>
     </keybind>
-    <keybind key="A-S-Return">
+    <keybind key="A-Return">
       <action name="Execute">
-        <command>lxterminal --geometry=120x50</command>
+        <command>urxvt </command>
       </action>
     </keybind>
+
+    <keybind key="A-S-q">
+      <action name="Execute">
+        <command>clearine </command>
+      </action>
+    </keybind>
+
+    <keybind key="A-f">
+      <action name="Execute">
+        <command>thunar </command>
+      </action>
+    </keybind>
+
+    <keybind key="A-n">
+      <action name="Execute">
+        <command>urxvt -e ncmpcpp </command>
+      </action>
+    </keybind>
+
+    <keybind key="A-S-q">
+      <action>exit</action>
+    </keybind>
+
     <!--keybindings for LXPanel -->
     <keybind key="W-r">
       <action name="Execute">
@@ -330,7 +374,7 @@
         <command>lxtask</command>
       </action>
     </keybind>
-    <keybind key="W-F11">
+    <keybind key="A-r">
       <action name="Reconfigure"/>
     </keybind>
     <keybind key="XF86AudioRaiseVolume">
@@ -347,6 +391,31 @@
       <action name="Execute"><command>amixer set Master toggle</command>volumeicon installed, and I can change the volume by scrolling
       </action>
     </keybind>
+
+    <keybind key="XF86AudioNext">
+      <action name="Execute">
+        <command>mpc next</command>
+      </action>
+    </keybind>
+
+    <keybind key="XF86AudioPrev">
+      <action name="Execute">
+        <command>mpc prev</command>
+      </action>
+    </keybind>
+
+    <keybind key="XF86AudioPlay">
+      <action name="Execute">
+        <command>mpc toggle</command>
+      </action>
+    </keybind>
+
+    <keybind key="XF86AudioStop">
+      <action name="Execute">
+        <command>mpc stop</command>
+      </action>
+    </keybind>
+
     <keybind key="Super_L">
       <action name="Execute">
         <name>dmenu</name>

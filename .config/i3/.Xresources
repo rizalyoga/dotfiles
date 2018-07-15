@@ -1,0 +1,84 @@
+Xft.dpi:        85
+Xft.antialias:  true
+Xft.rgba:       rgb
+Xft.hinting:    true
+Xft.hintstyle: hintslight
+
+URxvt.imLocale: pl_PL.UTF-8
+!URxvt.font:xft:Hack for powerline:regular:size=9
+URxvt.font:xft:iosevka Nerd Font :regular:size=10		
+URxvt*letterSpace:1
+URxvt*allow_bold:false
+URxvt*iso14755: False
+URxvt*iconFile: /home/dragneel/.icons/Flat RemixBlocks/apps/scalable/urxvt.svg
+#include "/home/dragneel/.xrdb/color/eighties1"
+
+
+!URxvt.perl-ext-common:			default,tabbedex,matcher,vtwheel,clipboard
+URxvt.perl-ext-common: default, tabbed
+
+!URxvt.matcher.button:			1
+URxvt.perl-ext:				default,url-select
+URxvt.keysym.M-u:			perl:url-select:select_next
+URxvt.url-select.launcher:		firefox
+URxvt.url-select.underline:		true
+URxvt.insecure: 			false
+
+!- Copy/paste
+URxvt.iso14755: False
+URxvt.keysym.Shift-Alt-C: 		perl:clipboard:copy
+URxvt.keysym.Shift-Alt-V: 		perl:clipboard:paste
+
+URxvt*saveLines: 			300000
+URxvt.scrollBar: 			false
+URxvt*cursorBlink: 			false
+URxvt*cursorUnderline: 		        true
+URxvt.tabbedex.autohide:		yes
+URxvt.tabbedex.tabbar-fg:		2
+URxvt.tabbedex.tabbar-bg:		0
+URxvt.tabbedex.tab-fg:			10
+URxvt.tabbedex.tab-bg:			0
+URxvt.tabbedex.title:			yes
+URxvt.tabbedex.new-button:		no
+!URxvt*geometry: 			65x15
+URxvt*geometry: 			65x17
+URxvt.internalBorder: 			8
+
+!transparent
+!URxvt*depth: 32
+!URxvt*background:			rgba:1900/1900/2900/f999
+URxvt.transparent:			false
+
+XTerm*letterSpace:-2
+!XTerm*faceName: iosevka Nerd Font
+Term*faceName: monokai
+xterm*faceSize: 9
+xterm*internalBorder: 20
+xterm*vt100*geometry: 70x20
+xterm*saveLines: 16384
+xterm*loginShell: true
+xterm*charClass: 33:48,35:48,37:48,43:48,45-47:48,64:48,95:48,126:48
+xterm*termName: xterm-color
+xterm*eightBitInput: false
+
+UXTerm*termName: xterm-256color
+UXTerm*VT100.geometry:     92x17
+UXTerm*faceName:               ShureTechMono Nerd Font
+UXTerm*faceSize:		   9
+UXTerm*dynamicColors:      true
+UXTerm*utf8:               2
+UXTerm*eightBitInput:      true
+UXTerm*saveLines:          10000
+UXTerm*scrollKey:          true
+UXTerm*scrollTtyOutput:    false
+UXTerm*scrollBar:          false
+UXTerm*rightScrollBar:     false
+UXTerm*jumpScroll:         true
+UXTerm*multiScroll:        true
+UXTerm*toolBar:            false
+UXTerm*boldMode: false
+UXTerm*colorBDMode: true
+UXTerm*colorBD: rgb:3f/3f/3f
+
+
+

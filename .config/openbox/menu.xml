@@ -6,8 +6,13 @@
 		<item label="File Manager">
 			<action name="Execute">
 				<command>
-<![CDATA[xdg-open .]]>																																																											
+<![CDATA[xdg-open .]]>																																																																
 				</command>
+			</action>
+		</item>
+		<item label="xfce4-terminal">
+			<action name="Execute">
+				<execute>xfce4-terminal</execute>
 			</action>
 		</item>
 		<item label="Urxvt">
@@ -21,189 +26,189 @@
 			<item label="About Xfce">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-about]]>																																																																							
+						<![CDATA[xfce4-about]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Application Finder">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-appfinder]]>																																																																							
+						<![CDATA[xfce4-appfinder]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Bulk Rename">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/lib/Thunar/ThunarBulkRename]]>																																																																							
+						<![CDATA[/usr/lib/Thunar/ThunarBulkRename]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Catfish File Search">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/bin/catfish]]>																																																																							
+						<![CDATA[/usr/bin/catfish]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Clipman">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-clipman]]>																																																																							
+						<![CDATA[xfce4-clipman]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Engrampa Archive Manager">
 				<action name="Execute">
 					<command>
-<![CDATA[engrampa]]>																																																																							
+						<![CDATA[engrampa]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="File Manager">
 				<action name="Execute">
 					<command>
-<![CDATA[exo-open --launch FileManager]]>																																																																							
+						<![CDATA[exo-open --launch FileManager]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Galculator">
 				<action name="Execute">
 					<command>
-<![CDATA[galculator]]>																																																																							
+						<![CDATA[galculator]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="gKamus">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/local/bin/gkamus]]>																																																																							
+						<![CDATA[/usr/local/bin/gkamus]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Help">
 				<action name="Execute">
-					<command>
-<![CDATA[yelp]]>																																																																							
+					<command>	
+						<![CDATA[yelp]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="HP Device Manager">
 				<action name="Execute">
 					<command>
-<![CDATA[hp-toolbox]]>																																																																							
+						<![CDATA[hp-toolbox]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="LightDM GTK+ Greeter settings">
 				<action name="Execute">
 					<command>
-<![CDATA[lightdm-gtk-greeter-settings-pkexec]]>																																																																							
+						<![CDATA[lightdm-gtk-greeter-settings-pkexec]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Manjaro User Guide">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/bin/manjaro-documentation]]>																																																																							
+						<![CDATA[/usr/bin/manjaro-documentation]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Menu Editor">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/bin/menulibre]]>																																																																							
+						<![CDATA[/usr/bin/menulibre]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Mousepad">
 				<action name="Execute">
 					<command>
-<![CDATA[mousepad]]>																																																																							
+						<![CDATA[mousepad]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="nitrogen">
 				<action name="Execute">
 					<command>
-<![CDATA[nitrogen]]>																																																																							
+						<![CDATA[nitrogen]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Notes">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-notes]]>																																																																							
+						<![CDATA[xfce4-notes]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Orage Globaltime">
 				<action name="Execute">
 					<command>
-<![CDATA[globaltime]]>																																																																							
+						<![CDATA[globaltime]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Plank">
 				<action name="Execute">
 					<command>
-<![CDATA[plank]]>																																																																							
+						<![CDATA[plank]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Run Program...">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-appfinder --collapsed]]>																																																																							
+						<![CDATA[xfce4-appfinder --collapsed]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Screenshot">
 				<action name="Execute">
-					<command>
-<![CDATA[xfce4-screenshooter]]>																																																																							
+					<command>	
+						<![CDATA[xfce4-screenshooter]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Sensor Viewer">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-sensors]]>																																																																							
+						<![CDATA[xfce4-sensors]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Task Manager">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-taskmanager]]>																																																																							
+						<![CDATA[xfce4-taskmanager]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Terminal Emulator">
 				<action name="Execute">
 					<command>
-<![CDATA[exo-open --launch TerminalEmulator]]>																																																																							
+						<![CDATA[exo-open --launch TerminalEmulator]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Thunar File Manager">
 				<action name="Execute">
 					<command>
-<![CDATA[thunar]]>																																																																							
+						<![CDATA[thunar]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Xfburn">
 				<action name="Execute">
 					<command>
-<![CDATA[xfburn]]>																																																																							
+						<![CDATA[xfburn]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Xpad">
 				<action name="Execute">
 					<command>
-<![CDATA[xpad]]>																																																																							
+						<![CDATA[xpad]]>																																																																													
 					</command>
 				</action>
 			</item>
@@ -212,14 +217,14 @@
 			<item label="NetBeans IDE 8.0.2">
 				<action name="Execute">
 					<command>
-<![CDATA[/bin/sh "/home/dragneel/netbeans-8.0.2/bin/netbeans"]]>																																																																							
+						<![CDATA[/bin/sh "/home/dragneel/netbeans-8.0.2/bin/netbeans"]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Sublime Text 3 Dev">
 				<action name="Execute">
 					<command>
-<![CDATA[subl3]]>																																																																							
+						<![CDATA[subl3]]>																																																																													
 					</command>
 				</action>
 			</item>
@@ -228,7 +233,7 @@
 			<item label="LibreOffice Math">
 				<action name="Execute">
 					<command>
-<![CDATA[libreoffice --math]]>																																																																							
+						<![CDATA[libreoffice --math]]>																																																																													
 					</command>
 				</action>
 			</item>
@@ -237,7 +242,7 @@
 			<item label="Steam">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/bin/steam]]>																																																																							
+						<![CDATA[/usr/bin/steam]]>																																																																													
 					</command>
 				</action>
 			</item>
@@ -246,28 +251,28 @@
 			<item label="GNU Image Manipulation Program">
 				<action name="Execute">
 					<command>
-<![CDATA[gimp-2.8]]>																																																																							
+						<![CDATA[gimp-2.8]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="LibreOffice Draw">
 				<action name="Execute">
 					<command>
-<![CDATA[libreoffice --draw]]>																																																																							
+						<![CDATA[libreoffice --draw]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Ristretto Image Viewer">
 				<action name="Execute">
 					<command>
-<![CDATA[ristretto]]>																																																																							
+						<![CDATA[ristretto]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Viewnior">
 				<action name="Execute">
 					<command>
-<![CDATA[viewnior]]>																																																																							
+						<![CDATA[viewnior]]>																																																																													
 					</command>
 				</action>
 			</item>
@@ -276,7 +281,7 @@
 			<item label="Audacious">
 				<action name="Execute">
 					<command>
-<![CDATA[audacious]]>																																																																							
+						<![CDATA[audacious]]>																																																																													
 					</command>
 				</action>
 			</item>
@@ -288,35 +293,35 @@
 			<item label="Parole Media Player">
 				<action name="Execute">
 					<command>
-<![CDATA[parole]]>																																																																							
+						<![CDATA[parole]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="PulseAudio Volume Control">
 				<action name="Execute">
 					<command>
-<![CDATA[pavucontrol]]>																																																																							
+						<![CDATA[pavucontrol]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Qt V4L2 test Utility">
 				<action name="Execute">
 					<command>
-<![CDATA[qv4l2]]>																																																																							
+						<![CDATA[qv4l2]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="VLC media player">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/bin/vlc --started-from-file]]>																																																																							
+						<![CDATA[/usr/bin/vlc --started-from-file]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Xfburn">
 				<action name="Execute">
 					<command>
-<![CDATA[xfburn]]>																																																																							
+						<![CDATA[xfburn]]>																																																																													
 					</command>
 				</action>
 			</item>
@@ -325,70 +330,70 @@
 			<item label="Avahi SSH Server Browser">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/bin/bssh]]>																																																																							
+						<![CDATA[/usr/bin/bssh]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Avahi VNC Server Browser">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/bin/bvnc]]>																																																																							
+						<![CDATA[/usr/bin/bvnc]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Firefox">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/lib/firefox/firefox]]>																																																																							
+						<![CDATA[/usr/lib/firefox/firefox]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="HexChat">
 				<action name="Execute">
 					<command>
-<![CDATA[hexchat --existing]]>																																																																							
+						<![CDATA[hexchat --existing]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Mail Reader">
 				<action name="Execute">
 					<command>
-<![CDATA[exo-open --launch MailReader]]>																																																																							
+						<![CDATA[exo-open --launch MailReader]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Pidgin Internet Messenger">
 				<action name="Execute">
 					<command>
-<![CDATA[pidgin]]>																																																																							
+						<![CDATA[pidgin]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Steam">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/bin/steam]]>																																																																							
+						<![CDATA[/usr/bin/steam]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Thunderbird">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/lib/thunderbird/thunderbird]]>																																																																							
+						<![CDATA[/usr/lib/thunderbird/thunderbird]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Web Browser">
 				<action name="Execute">
 					<command>
-<![CDATA[exo-open --launch WebBrowser]]>																																																																							
+						<![CDATA[exo-open --launch WebBrowser]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Xtreme Download Manager">
 				<action name="Execute">
 					<command>
-<![CDATA["/opt/xdman/xdman"]]>																																																																							
+						<![CDATA["/opt/xdman/xdman"]]>																																																																													
 					</command>
 				</action>
 			</item>
@@ -397,126 +402,126 @@
 			<item label="Dictionary">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-dict]]>																																																																							
+						<![CDATA[xfce4-dict]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Foxit Reader">
 				<action name="Execute">
 					<command>
-<![CDATA[/home/dragneel/opt/foxitsoftware/foxitreader/FoxitReader.sh]]>																																																																							
+						<![CDATA[/home/dragneel/opt/foxitsoftware/foxitreader/FoxitReader.sh]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="LibreOffice Base">
 				<action name="Execute">
 					<command>
-<![CDATA[libreoffice --base]]>																																																																							
+						<![CDATA[libreoffice --base]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="LibreOffice Calc">
 				<action name="Execute">
 					<command>
-<![CDATA[libreoffice --calc]]>																																																																							
+						<![CDATA[libreoffice --calc]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="LibreOffice Draw">
 				<action name="Execute">
 					<command>
-<![CDATA[libreoffice --draw]]>																																																																							
+						<![CDATA[libreoffice --draw]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="LibreOffice Impress">
 				<action name="Execute">
 					<command>
-<![CDATA[libreoffice --impress]]>																																																																							
+						<![CDATA[libreoffice --impress]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="LibreOffice Math">
 				<action name="Execute">
 					<command>
-<![CDATA[libreoffice --math]]>																																																																							
+						<![CDATA[libreoffice --math]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="LibreOffice Writer">
 				<action name="Execute">
 					<command>
-<![CDATA[libreoffice --writer]]>																																																																							
+						<![CDATA[libreoffice --writer]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="LibreOffice">
 				<action name="Execute">
 					<command>
-<![CDATA[libreoffice]]>																																																																							
+						<![CDATA[libreoffice]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Microsoft Excel Online">
 				<action name="Execute">
 					<command>
-<![CDATA[excel]]>																																																																							
+						<![CDATA[excel]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Microsoft Office Online">
 				<action name="Execute">
 					<command>
-<![CDATA[msoffice]]>																																																																							
+						<![CDATA[msoffice]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Microsoft OneNote Online">
 				<action name="Execute">
 					<command>
-<![CDATA[onenote]]>																																																																							
+						<![CDATA[onenote]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Microsoft Outlook Online">
 				<action name="Execute">
 					<command>
-<![CDATA[outlook]]>																																																																							
+						<![CDATA[outlook]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Microsoft PowerPoint Online">
 				<action name="Execute">
 					<command>
-<![CDATA[powerpoint]]>																																																																							
+						<![CDATA[powerpoint]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Microsoft Word Online">
 				<action name="Execute">
 					<command>
-<![CDATA[word]]>																																																																							
+						<![CDATA[word]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Orage Calendar">
 				<action name="Execute">
 					<command>
-<![CDATA[orage]]>																																																																							
+<![CDATA[orage]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Orage Globaltime">
 				<action name="Execute">
 					<command>
-<![CDATA[globaltime]]>																																																																							
+<![CDATA[globaltime]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="qpdfview">
 				<action name="Execute">
 					<command>
-<![CDATA[qpdfview --unique]]>																																																																							
+<![CDATA[qpdfview --unique]]>																																																																													
 					</command>
 				</action>
 			</item>
@@ -525,7 +530,7 @@
 			<item label="Packet Tracer 7.0">
 				<action name="Execute">
 					<command>
-<![CDATA[PacketTracer7]]>																																																																							
+<![CDATA[PacketTracer7]]>																																																																													
 					</command>
 				</action>
 			</item>
@@ -534,252 +539,252 @@
 			<item label="About Me">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/bin/mugshot]]>																																																																							
+<![CDATA[/usr/bin/mugshot]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Accessibility">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-accessibility-settings]]>																																																																							
+<![CDATA[xfce4-accessibility-settings]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Add/Remove Software">
 				<action name="Execute">
 					<command>
-<![CDATA[pamac-manager]]>																																																																							
+<![CDATA[pamac-manager]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Appearance">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-appearance-settings]]>																																																																							
+<![CDATA[xfce4-appearance-settings]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Bluetooth Adapters">
 				<action name="Execute">
 					<command>
-<![CDATA[blueman-adapters]]>																																																																							
+<![CDATA[blueman-adapters]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Bluetooth Manager">
 				<action name="Execute">
 					<command>
-<![CDATA[blueman-manager]]>																																																																							
+<![CDATA[blueman-manager]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Customize Look and Feel">
 				<action name="Execute">
 					<command>
-<![CDATA[lxappearance]]>																																																																							
+<![CDATA[lxappearance]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Desktop">
 				<action name="Execute">
 					<command>
-<![CDATA[xfdesktop-settings]]>																																																																							
+<![CDATA[xfdesktop-settings]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Display">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-display-settings]]>																																																																							
+<![CDATA[xfce4-display-settings]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="File Manager">
 				<action name="Execute">
 					<command>
-<![CDATA[thunar-settings]]>																																																																							
+<![CDATA[thunar-settings]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Firewall Configuration">
 				<action name="Execute">
 					<command>
-<![CDATA[gufw]]>																																																																							
+<![CDATA[gufw]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Keyboard">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-keyboard-settings]]>																																																																							
+<![CDATA[xfce4-keyboard-settings]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="LightDM GTK+ Greeter settings">
 				<action name="Execute">
 					<command>
-<![CDATA[lightdm-gtk-greeter-settings-pkexec]]>																																																																							
+<![CDATA[lightdm-gtk-greeter-settings-pkexec]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Manjaro Notifier Settings">
 				<action name="Execute">
 					<command>
-<![CDATA[msm_notifier --settings]]>																																																																							
+<![CDATA[msm_notifier --settings]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Manjaro Settings Manager">
 				<action name="Execute">
 					<command>
-<![CDATA[manjaro-settings-manager]]>																																																																							
+<![CDATA[manjaro-settings-manager]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Menu Editor">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/bin/menulibre]]>																																																																							
+<![CDATA[/usr/bin/menulibre]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="MIME Type Editor">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-mime-settings]]>																																																																							
+<![CDATA[xfce4-mime-settings]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Mouse and Touchpad">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-mouse-settings]]>																																																																							
+<![CDATA[xfce4-mouse-settings]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Network Connections">
 				<action name="Execute">
 					<command>
-<![CDATA[nm-connection-editor]]>																																																																							
+<![CDATA[nm-connection-editor]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Notifications">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-notifyd-config]]>																																																																							
+<![CDATA[xfce4-notifyd-config]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Openbox Configuration Manager">
 				<action name="Execute">
 					<command>
-<![CDATA[obconf]]>																																																																							
+<![CDATA[obconf]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Orage preferences">
 				<action name="Execute">
 					<command>
-<![CDATA[orage -p]]>																																																																							
+<![CDATA[orage -p]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Panel">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-panel --preferences]]>																																																																							
+<![CDATA[xfce4-panel --preferences]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Power Manager">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-power-manager-settings]]>																																																																							
+<![CDATA[xfce4-power-manager-settings]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Preferred Applications">
 				<action name="Execute">
 					<command>
-<![CDATA[exo-preferred-applications]]>																																																																							
+<![CDATA[exo-preferred-applications]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Privilege granting">
 				<action name="Execute">
 					<command>
-<![CDATA[gksu-properties]]>																																																																							
+<![CDATA[gksu-properties]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Qt5 Settings">
 				<action name="Execute">
 					<command>
-<![CDATA[qt5ct]]>																																																																							
+<![CDATA[qt5ct]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Removable Drives and Media">
 				<action name="Execute">
 					<command>
-<![CDATA[thunar-volman-settings]]>																																																																							
+<![CDATA[thunar-volman-settings]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Session and Startup">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-session-settings]]>																																																																							
+<![CDATA[xfce4-session-settings]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Settings Editor">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-settings-editor]]>																																																																							
+<![CDATA[xfce4-settings-editor]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Settings Manager">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-settings-manager]]>																																																																							
+<![CDATA[xfce4-settings-manager]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Software Update">
 				<action name="Execute">
 					<command>
-<![CDATA[pamac-updater]]>																																																																							
+<![CDATA[pamac-updater]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Tint2 Settings">
 				<action name="Execute">
 					<command>
-<![CDATA[tint2conf]]>																																																																							
+<![CDATA[tint2conf]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Window Manager Tweaks">
 				<action name="Execute">
 					<command>
-<![CDATA[xfwm4-tweaks-settings]]>																																																																							
+<![CDATA[xfwm4-tweaks-settings]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Window Manager">
 				<action name="Execute">
 					<command>
-<![CDATA[xfwm4-settings]]>																																																																							
+<![CDATA[xfwm4-settings]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Workspaces">
 				<action name="Execute">
 					<command>
-<![CDATA[xfwm4-workspace-settings]]>																																																																							
+<![CDATA[xfwm4-workspace-settings]]>																																																																													
 					</command>
 				</action>
 			</item>
@@ -788,133 +793,133 @@
 			<item label="Add/Remove Software">
 				<action name="Execute">
 					<command>
-<![CDATA[pamac-manager]]>																																																																							
+<![CDATA[pamac-manager]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Avahi Zeroconf Browser">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/bin/avahi-discover]]>																																																																							
+<![CDATA[/usr/bin/avahi-discover]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Bulk Rename">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/lib/Thunar/ThunarBulkRename]]>																																																																							
+<![CDATA[/usr/lib/Thunar/ThunarBulkRename]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="GParted">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/bin/gparted]]>																																																																							
+<![CDATA[/usr/bin/gparted]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Htop">
 				<action name="Execute">
 					<command>
-<![CDATA[xterm -e 'htop']]>																																																																							
+<![CDATA[xterm -e 'htop']]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="LightDM GTK+ Greeter settings">
 				<action name="Execute">
 					<command>
-<![CDATA[lightdm-gtk-greeter-settings-pkexec]]>																																																																							
+<![CDATA[lightdm-gtk-greeter-settings-pkexec]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Log Out">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-session-logout]]>																																																																							
+<![CDATA[xfce4-session-logout]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Manage Printing">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/bin/xdg-open http://localhost:631/]]>																																																																							
+<![CDATA[/usr/bin/xdg-open http://localhost:631/]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Manjaro Hello">
 				<action name="Execute">
 					<command>
-<![CDATA[/usr/bin/manjaro-hello]]>																																																																							
+<![CDATA[/usr/bin/manjaro-hello]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Oracle VM VirtualBox">
 				<action name="Execute">
 					<command>
-<![CDATA[VirtualBox]]>																																																																							
+<![CDATA[VirtualBox]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Sensor Viewer">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-sensors]]>																																																																							
+<![CDATA[xfce4-sensors]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Software Update">
 				<action name="Execute">
 					<command>
-<![CDATA[pamac-updater]]>																																																																							
+<![CDATA[pamac-updater]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Task Manager">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-taskmanager]]>																																																																							
+<![CDATA[xfce4-taskmanager]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Thunar File Manager">
 				<action name="Execute">
 					<command>
-<![CDATA[thunar]]>																																																																							
+<![CDATA[thunar]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Tint2">
 				<action name="Execute">
 					<command>
-<![CDATA[tint2]]>																																																																							
+<![CDATA[tint2]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="urxvt (client)">
 				<action name="Execute">
 					<command>
-<![CDATA[urxvtc]]>																																																																							
+<![CDATA[urxvtc]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="urxvt (tabbed)">
 				<action name="Execute">
 					<command>
-<![CDATA[urxvt-tabbed]]>																																																																							
+<![CDATA[urxvt-tabbed]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="urxvt">
 				<action name="Execute">
 					<command>
-<![CDATA[urxvt]]>																																																																							
+<![CDATA[urxvt]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Xfce Terminal">
 				<action name="Execute">
 					<command>
-<![CDATA[xfce4-terminal]]>																																																																							
+<![CDATA[xfce4-terminal]]>																																																																													
 					</command>
 				</action>
 			</item>
@@ -924,14 +929,14 @@
 			<item label="Conky RC">
 				<action name="Execute">
 					<command>
-<![CDATA[geany ~/.conkyrc]]>																																																																							
+<![CDATA[geany ~/.conkyrc]]>																																																																													
 					</command>
 				</action>
 			</item>
 			<item label="Tint2 Panel">
 				<action name="Execute">
 					<command>
-<![CDATA[geany ~/.config/tint2/tint2rc]]>																																																																							
+<![CDATA[geany ~/.config/tint2/tint2rc]]>																																																																													
 					</command>
 				</action>
 			</item>
@@ -939,14 +944,14 @@
 				<item label="Menu Schema">
 					<action name="Execute">
 						<command>
-<![CDATA[geany ~/.config/obmenu-generator/schema.pl]]>																																																																																			
+<![CDATA[geany ~/.config/obmenu-generator/schema.pl]]>																																																																																										
 						</command>
 					</action>
 				</item>
 				<item label="Menu Config">
 					<action name="Execute">
 						<command>
-<![CDATA[geany ~/.config/obmenu-generator/config.pl]]>																																																																																			
+<![CDATA[geany ~/.config/obmenu-generator/config.pl]]>																																																																																										
 						</command>
 					</action>
 				</item>
@@ -954,14 +959,14 @@
 				<item label="Generate a static menu">
 					<action name="Execute">
 						<command>
-<![CDATA[obmenu-generator -s -c]]>																																																																																			
+<![CDATA[obmenu-generator -s -c]]>																																																																																										
 						</command>
 					</action>
 				</item>
 				<item label="Generate a static menu with icons">
 					<action name="Execute">
 						<command>
-<![CDATA[obmenu-generator -s -i -c]]>																																																																																			
+<![CDATA[obmenu-generator -s -i -c]]>																																																																																										
 						</command>
 					</action>
 				</item>
@@ -969,14 +974,14 @@
 				<item label="Generate a dynamic menu">
 					<action name="Execute">
 						<command>
-<![CDATA[obmenu-generator -p]]>																																																																																			
+<![CDATA[obmenu-generator -p]]>																																																																																										
 						</command>
 					</action>
 				</item>
 				<item label="Generate a dynamic menu with icons">
 					<action name="Execute">
 						<command>
-<![CDATA[obmenu-generator -p -i]]>																																																																																			
+<![CDATA[obmenu-generator -p -i]]>																																																																																										
 						</command>
 					</action>
 				</item>
@@ -984,7 +989,7 @@
 				<item label="Refresh cache">
 					<action name="Execute">
 						<command>
-<![CDATA[obmenu-generator -d]]>																																																																																			
+<![CDATA[obmenu-generator -d]]>																																																																																										
 						</command>
 					</action>
 				</item>
@@ -993,28 +998,28 @@
 				<item label="Openbox Autostart">
 					<action name="Execute">
 						<command>
-<![CDATA[geany ~/.config/openbox/autostart]]>																																																																																			
+							<![CDATA[geany ~/.config/openbox/autostart]]>																																																																																										
 						</command>
 					</action>
 				</item>
 				<item label="Openbox RC">
 					<action name="Execute">
 						<command>
-<![CDATA[geany ~/.config/openbox/rc.xml]]>																																																																																			
+							<![CDATA[geany ~/.config/openbox/rc.xml]]>																																																																																										
 						</command>
 					</action>
 				</item>
 				<item label="Openbox Menu">
 					<action name="Execute">
 						<command>
-<![CDATA[geany ~/.config/openbox/menu.xml]]>																																																																																			
+							<![CDATA[geany ~/.config/openbox/menu.xml]]>																																																																																										
 						</command>
 					</action>
 				</item>
 				<item label="Reconfigure Openbox">
 					<action name="Execute">
 						<command>
-<![CDATA[openbox --reconfigure]]>																																																																																			
+							<![CDATA[openbox --reconfigure]]>																																																																																										
 						</command>
 					</action>
 				</item>
