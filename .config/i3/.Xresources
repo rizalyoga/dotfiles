@@ -11,6 +11,8 @@ URxvt*letterSpace:1
 URxvt*allow_bold:false
 URxvt*iso14755: False
 URxvt*iconFile: /home/dragneel/.icons/Flat RemixBlocks/apps/scalable/urxvt.svg
+
+!URxvt.background:           #2f343f
 #include "/home/dragneel/.xrdb/color/eighties1"
 
 
@@ -40,8 +42,8 @@ URxvt.tabbedex.tab-fg:			10
 URxvt.tabbedex.tab-bg:			0
 URxvt.tabbedex.title:			yes
 URxvt.tabbedex.new-button:		no
-!URxvt*geometry: 			65x15
-URxvt*geometry: 			65x17
+!URxvt*geometry: 			65x17
+URxvt*geometry: 			75x23
 URxvt.internalBorder: 			8
 
 !transparent
@@ -81,4 +83,9 @@ UXTerm*colorBDMode: true
 UXTerm*colorBD: rgb:3f/3f/3f
 
 
-
+! State:           ´bg´,     ´fg´,     ´bgalt´,  ´hlbg´,   ´hlfg´
+!rofi.color-normal: #2f343f,  #e7e8eb,  #2f343f,  #e7e8eb,  #2f343f
+!rofi.color-urgent: #2f343f,  #e7e8eb,  #2f343f,  #e7e8eb,  #2f343f
+!rofi.color-active: #2f343f,  #e7e8eb,  #2f343f,  #e7e8eb,  #2f343f
+!                  ´background´, ´border´
+!rofi.color-window: #2f343f, #75444A57
